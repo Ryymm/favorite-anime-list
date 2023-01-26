@@ -1,0 +1,21 @@
+{
+  "printWidth": 100,
+  "useTabs": true,
+  "tabWidth": 2,
+  "overrides": [
+    {
+      "files": ["*.json", "*.md", "*.yml", "*.yaml"],
+      "options": {
+        "useTabs": false
+      }
+    }
+  ],
+  "semi": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "trailingComma": "none",
+  "endOfLine": "lf",
+  "singleQuote": true
+}

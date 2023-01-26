@@ -1,0 +1,18 @@
+{
+  "name": "favorite-anime-list",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple blog to show mi favorite animes and current status of each one",
+  "main": "src/scripts/app.js",
+  "type": "module",
+  "scripts": {
+    "format:check": "prettier --check . --ignore-path .gitignore",
+    "format": "prettier --write . --ignore-path .gitignore"
+  },
+  "keywords": [],
+  "author": "Ryymm <ryymm@proton.me>",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.8.3"
+  }
+}
